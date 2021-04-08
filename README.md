@@ -4,7 +4,7 @@ My name is Vinícius Gino, I'm 20 years old and a developing environmental engin
 
 - 🎓 I'm studying Environmental Engineering at UNESP since 2018.
 - 🔭 I’m currently working on Remote Sensing analysis with GEE Python API.
-- 🌱 I'm currently developing the project "Prototype of monitoring ans alert system for dam regions based on Remote Sensing data and Machine Learning techniques".
+- 🌱 I'm currently developing the project "Prototype of monitoring and alert system for dam regions based on Remote Sensing data and Machine Learning techniques".
 - 👯 I’m looking to collaborate on evironmental data solutions.
 - ⚡ I have skills at Python (Pandas, Numpy, SKLearn), ArcGIS Pro, QGIS, ENVI, MATLAB.
 - ⚽ Crazy fan of Santos FC: The greatest club of the world!
