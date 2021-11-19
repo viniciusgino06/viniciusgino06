@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vinícius Gino, I'm 20 years old and a developing environmental engineer.
+My name is Vinícius Gino, I'm 21 years old and a developing environmental engineer.
 
 - 🎓 I'm studying Environmental Engineering at UNESP since 2018.
 - 🔭 I’m currently working on Remote Sensing analysis with GEE Python API.
